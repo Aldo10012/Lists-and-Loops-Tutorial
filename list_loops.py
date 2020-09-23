@@ -2,8 +2,8 @@
 songs = ["ROCKSTAR", "Do It", "For The Night"]
 
 # Question 2
-print( songs[0] )
-print( songs[2] )
+print( songs[0] )                   # printing first element
+print( songs[2] )                   # printing last element
 print( songs[1:3] )
 
 # Question 3
@@ -17,7 +17,7 @@ songs.append("Honey I'm Good")
 del songs[1]
 
 # Question 5
-
+# the two loop methods basically do the same thing. 
 
 # Question 6
 animals = ['lion', 'tiger', 'panther']
